@@ -3,4 +3,7 @@ name = "minigrep"
 version = "0.1.0"
 authors = ["Petr Hodina <petr.hodina@siemens.com>"]
 
+[[bin]]
+doc = false
+name = "minigrep"
 [dependencies]
